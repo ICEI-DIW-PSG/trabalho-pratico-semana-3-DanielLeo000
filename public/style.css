@@ -3,16 +3,17 @@ body {
     background-color: aquamarine;
 }
 
-header {
-    background-color: rgb(113, 174, 243);
+header {    
+    background-color: rgb(113, 174, 243);  
+    display: inline-block;
+    width: calc(33%);
+    
 }
+
 aside {
 background-color: rgb(185, 113, 243);
  }
 
- * {
-    margin: 0;
- }
 
 .Artigoum {
     background-color: rgb(136, 127, 255);
@@ -31,14 +32,26 @@ nav {
 }
 nav ul :first-child{
     color: brown;
+}
 
 nav ul :last-child{
     color: chocolate;
 }
 
-li.active{
-    color: green;
+ li.active{
+    color: rgb(17, 141, 163);
 }
+
+div {
+    display: inline-block;
+    width: calc(33% - 16px);
+    vertical-align: top;
+    margin: 8px;
+    border: 1px solid color #777;
+    box-sizing:content-box;
+}
+
+
 
 
 
