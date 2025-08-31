@@ -10,17 +10,24 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Daniel Junio Leo
+- Matricula: 900673
+- Proposta de projeto escolhida: Proposta 4-Coleções e Itens.
+- Breve descrição sobre seu projeto: Fiz um site que mostra e comenta sobre algumas obras de arte do artista Vincent van Gogh.
 
 
 ## Print do(s) wireframe(s) criado
 
 <<  COLOQUE A IMAGEM AQUI >>
+ ![Print do wireframe](imagens/wireframe.jpg)
+
 
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+![Print da home-page ](/imagens/printD3.PNG)
+![Print 2 da home-page](imagens/PrintD3.2.PNG)
+
+
+[def]: imagens/wireframe.jpg

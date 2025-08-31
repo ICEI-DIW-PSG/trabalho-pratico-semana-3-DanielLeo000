@@ -15,18 +15,18 @@ header {
      border-radius: 5px;
   
 }
-#d1 {
+.d1 {
     width: 03%;
     background-color: rgb(236, 72, 72);;
     
 
 }
-#d2 {
+.d2 {
     width: 70%;
    background-color: rgb(250, 205, 205);;
    
 }
-#d3 {
+.d3 {
     width: 10%;
     background-color: rgb(113, 153, 76);;
   
