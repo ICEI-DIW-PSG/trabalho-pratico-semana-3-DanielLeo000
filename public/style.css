@@ -1,6 +1,6 @@
-gi
+
 body {
-    background-color: rgb(225, 187, 240);
+    background-color: rgb(108, 167, 226);
     margin: 0px;
     padding: 0px;
 }
@@ -17,24 +17,33 @@ header {
 }
 #d1 {
     width: 03%;
-    background-color: rgb(248, 167, 137);
+    background-color: rgb(236, 72, 72);;
     
 
 }
 #d2 {
     width: 70%;
-   background-color: rgb(241, 168, 141);
+   background-color: rgb(236, 72, 72);;
    
 }
 #d3 {
     width: 10%;
-    background-color: rgb(241, 179, 156);
+    background-color: rgb(236, 72, 72);;
   
 }
 
 
-aside {
-background-color: rgb(185, 113, 243);
+aside {    
+     background-color: rgb(185, 113, 243);
+     height: 1068px;
+     width: 24%;
+     float: right;
+     position: absolute right;
+     margin-right: 8px;
+     border : 1px solid777;
+     border-radius: 25px;
+     box-sizing:border-box;
+    
  }
 
 
@@ -59,11 +68,11 @@ background-color: rgb(185, 113, 243);
 
 
 footer {
-      background-color: rgb(252, 61, 61);
+      background-color: rgb(236, 72, 72);
       margin:8px;
      border: 1px solid #777; 
      padding: 2px;
-     border-radius: 5px;
+     border-radius: 15px;
      
       
 }
@@ -84,13 +93,15 @@ nav ul :last-child{
 
 div {
      display: inline-block;
-     width: calc(33% - 16px);
+     width: calc(24% - 16px);
      vertical-align: top;
      margin:8px;
      border: 1px solid #777; 
      padding: 2px;
      border-radius: 25px;
      box-sizing:border-box;
+    
+
 }
 img {
   padding: 6px;
