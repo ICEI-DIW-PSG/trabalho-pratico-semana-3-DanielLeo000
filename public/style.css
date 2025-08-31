@@ -23,19 +23,20 @@ header {
 }
 #d2 {
     width: 70%;
-   background-color: rgb(236, 72, 72);;
+   background-color: rgb(250, 205, 205);;
    
 }
 #d3 {
     width: 10%;
-    background-color: rgb(236, 72, 72);;
+    background-color: rgb(113, 153, 76);;
   
 }
 
 
 aside {    
      background-color: rgb(185, 113, 243);
-     height: 1068px;
+     padding: 35px;
+     height: 950px;
      width: 24%;
      float: right;
      position: absolute right;
@@ -60,7 +61,7 @@ aside {
     background-color: rgb(238, 149, 164);
 }
 .Artigocinco {
-    background-color: rgb(201, 103, 184);
+    background-color: rgb(230, 123, 74);
 }
 .Artigoseis {
     background-color: rgb(156, 150, 250);
@@ -76,6 +77,7 @@ footer {
      
       
 }
+
 nav {
     font-size: medium;
 }
