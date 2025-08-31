@@ -1,6 +1,6 @@
-
+gi
 body {
-    background-color: aquamarine;
+    background-color: rgb(225, 187, 240);
     margin: 0px;
     padding: 0px;
 }
@@ -12,6 +12,7 @@ header {
      margin:8px;
      border: 1px solid #777; 
      padding: 2px;
+     border-radius: 5px;
   
 }
 #d1 {
@@ -31,6 +32,7 @@ header {
   
 }
 
+
 aside {
 background-color: rgb(185, 113, 243);
  }
@@ -45,8 +47,25 @@ background-color: rgb(185, 113, 243);
 .Artigotres {
     background-color: rgb(255, 127, 148);
 }
+.Artigoquatro {
+    background-color: rgb(238, 149, 164);
+}
+.Artigocinco {
+    background-color: rgb(201, 103, 184);
+}
+.Artigoseis {
+    background-color: rgb(156, 150, 250);
+}
+
+
 footer {
       background-color: rgb(252, 61, 61);
+      margin:8px;
+     border: 1px solid #777; 
+     padding: 2px;
+     border-radius: 5px;
+     
+      
 }
 nav {
     font-size: medium;
